@@ -1,0 +1,4 @@
+example\controller\DemoController.class
+example\pojo\User.class
+example\dao\UserDao.class
+example\service\UserService.class
